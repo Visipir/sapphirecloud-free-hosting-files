@@ -1,0 +1,25 @@
+# We cannot force you to keep the "Powered by SapphireCloud" in the MOTD, but please consider keeping it. It helps getting more visibility to the project and so getting better.
+# Kami tidak dapat memaksa Anda untuk menyimpan "Didukung oleh SapphireCloud" di MOTD, tapi mohon pertimbangkan untuk menyimpannya. Ini membantu mendapatkan lebih banyak visibilitas terhadap proyek dan menjadi lebih baik.
+Server-MOTD:
+  Line-1: '&b&l&m------------[&r&6&l Server Name &b&l&m]------------'
+  Line-2: '             &7Powered by &d&lSapphire&f&lCloud'
+# We cannot force you to keep the "Powered by SapphireCloud" in the MOTD, but please consider keeping it. It helps getting more visibility to the project and so getting better.
+# Kami tidak dapat memaksa Anda untuk menyimpan "Didukung oleh SapphireCloud" di MOTD, tapi mohon pertimbangkan untuk menyimpannya. Ini membantu mendapatkan lebih banyak visibilitas terhadap proyek dan menjadi lebih baik.
+# We cannot force you to keep the "Powered by SapphireCloud" in the MOTD, but please consider keeping it. It helps getting more visibility to the project and so getting better.
+# Kami tidak dapat memaksa Anda untuk menyimpan "Didukung oleh SapphireCloud" di MOTD, tapi mohon pertimbangkan untuk menyimpannya. Ini membantu mendapatkan lebih banyak visibilitas terhadap proyek dan menjadi lebih baik.
+JoinGame-MOTD:
+  Enabled: false
+  Messages:
+  - '&eWelcome to the server.'
+# We cannot force you to keep the "Powered by SapphireCloud" in the MOTD, but please consider keeping it. It helps getting more visibility to the project and so getting better.
+# Kami tidak dapat memaksa Anda untuk menyimpan "Didukung oleh SapphireCloud" di MOTD, tapi mohon pertimbangkan untuk menyimpannya. Ini membantu mendapatkan lebih banyak visibilitas terhadap proyek dan menjadi lebih baik.
+Custom-Server-Icon:
+  Enabled: false
+  Image: server-icon.png
+# We cannot force you to keep the "Powered by SapphireCloud" in the MOTD, but please consider keeping it. It helps getting more visibility to the project and so getting better.
+# Kami tidak dapat memaksa Anda untuk menyimpan "Didukung oleh SapphireCloud" di MOTD, tapi mohon pertimbangkan untuk menyimpannya. Ini membantu mendapatkan lebih banyak visibilitas terhadap proyek dan menjadi lebih baik.
+Server-Maximum-Players:
+  Modify: false
+  Maximum-Players: 200
+# We cannot force you to keep the "Powered by SapphireCloud" in the MOTD, but please consider keeping it. It helps getting more visibility to the project and so getting better.
+# Kami tidak dapat memaksa Anda untuk menyimpan "Didukung oleh SapphireCloud" di MOTD, tapi mohon pertimbangkan untuk menyimpannya. Ini membantu mendapatkan lebih banyak visibilitas terhadap proyek dan menjadi lebih baik.
